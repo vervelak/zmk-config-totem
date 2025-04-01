@@ -105,7 +105,7 @@ label= "NAVI"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp ESC     &kp DEl     &trans      &trans      &trans          &kp HOME    &kp PG_DN   &kp PG_UP   &kp END     &trans
+                &kp ESC     &kp DEL     &trans      &trans      &trans          &kp HOME    &kp PG_DN   &kp PG_UP   &kp END     &trans
                 &kp LGUI    &kp LALT    &kp LCTRL   &kp LSHFT   &trans          &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &trans
     &trans      &trans      &trans      &trans      &trans      &trans          &trans      &trans      &trans      &trans      &trans          &trans
                                         &trans      &trans      &mo ADJ         &trans      &trans      &trans
