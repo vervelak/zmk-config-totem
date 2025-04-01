@@ -132,10 +132,10 @@ label= "SYM"                               ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp N1      &kp N2      &kp N3      &kp N4      &kp N5          &kp N6      &kp N7      &kp N8      &kp N9      &kp ZERO
+                &kp N1      &kp N2      &kp N3      &kp N4      &kp N5          &kp N6      &kp N7      &kp N8      &kp N9       &kp N0
                 &mt LGUI N4 &mt LALT N5 &mt LCTRL N6 &mt LSHFT KP_PLUS &kp LBKT &kp RBKT    &mt RSHFT C_MUTE  &kp RCTRL &kp RALT &kp RGUI
     &kp GRAVE   &kp N7      &kp N8      &kp N9      &kp MINUS   &kp LBRC        &kp RBRC    &kp C_VOL_DN &kp C_VOL_UP &kp C_PREV &kp C_NEXT  &trans
-                                        &kp ZERO    &trans      &trans          &mo ADJ     &gif        &trans
+                                        &kp N0      &trans      &trans          &mo ADJ     &gif        &trans
                         >;
                 };
 
